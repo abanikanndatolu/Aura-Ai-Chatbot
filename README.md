@@ -9,7 +9,6 @@
 | Use Case                                             | Demo Video                                                                                                |
 | :--------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- |
 | 🌐 **Online AI Chat (Google, OpenAI, Hugging Face)** | [![Watch Video](https://img.youtube.com/vi/yourvideoid1/0.jpg)](https://youtube.com/watch?v=yourvideoid1) |
-| 📶 **Offline AI Companion (Custom Local AI)**        | [![Watch Video](https://img.youtube.com/vi/yourvideoid2/0.jpg)](https://youtube.com/watch?v=yourvideoid2) |
 | 🌿 **Offline Plant & Animal ID (Coming Soon)**       | 🚧 Coming Soon                                                                                            |
 
 ---
