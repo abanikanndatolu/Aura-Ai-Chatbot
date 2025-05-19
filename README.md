@@ -8,7 +8,7 @@
 
 | Use Case                                             | Demo Video                                                                                                |
 | :--------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- |
-| 🌐 **Online AI Chat (Google, OpenAI, Hugging Face)** | [![Watch Video]]([https://youtube.com/watch?v=yourvideoid1](https://www.linkedin.com/posts/abanikanndatolu_aiprojects-appdevelopment-openai-activity-7330306849260331008-GqpU?utm_source=share&utm_medium=member_android&rcm=ACoAADpOnaQBZ8iouLrQxFo5rPfotHt1kDMcnGw)) |
+| 🌐 **Online AI Chat (Google, OpenAI, Hugging Face)** | [![Watch Video]]([https://youtube.com/watch?v=yourvideoid1](https://www.linkedin.com/posts/abanikanndatolu_aiprojects-appdevelopment-openai-activity-7330306849260331008-GqpU?utm_source=share&utm_medium=member_) |
 | 🌿 **Offline Plant & Animal ID (Coming Soon)**       | 🚧 Coming Soon                                                                                            |
 
 ---
@@ -212,6 +212,6 @@ AURA features an offline, prompt-based AI engine capable of delivering predefine
 
 ## 📦 Download the APK
 
-[📥 Download AURA APK (v1.0)](demo.apk)
+[📥 Download AURA APK (v1.0)](app-release.apk)
 
 ---
