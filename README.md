@@ -8,7 +8,7 @@
 
 | Use Case                                             | Demo Video                                                                                                |
 | :--------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- |
-| 🌐 **Online AI Chat (Google, OpenAI, Hugging Face)** | [![Watch Video]]([https://youtube.com/watch?v=yourvideoid1](https://www.linkedin.com/posts/abanikanndatolu_aiprojects-appdevelopment-openai-activity-7330306849260331008-GqpU?utm_source=share&utm_medium=member_) |
+| 🌐 **Online AI Chat (Google, OpenAI, Hugging Face)** | [![Watch Video]](https://www.linkedin.com/posts/abanikanndatolu_aiprojects-appdevelopment-openai-activity-7330306849260331008-GqpU?utm_source=share&utm_medium=member_) |
 | 🌿 **Offline Plant & Animal ID (Coming Soon)**       | 🚧 Coming Soon                                                                                            |
 
 ---
