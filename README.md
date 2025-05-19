@@ -213,6 +213,6 @@ AURA features an offline, prompt-based AI engine capable of delivering predefine
 
 ## 📦 Download the APK
 
-[📥 Download AURA APK (v1.0)](https://your-apk-download-link-here.com)
+[📥 Download AURA APK (v1.0)](demo.apk)
 
 ---
